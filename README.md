@@ -4,7 +4,7 @@
 In my case I use [balena etcher](https://drive.google.com/file/d/1Tfd-bSMHZandEGXyMeEDAjkSMh-CWA55/view?usp=drive_link)
 
 # Downloading preinstall pwnpi-aloa latest version
-* [pwn-pi my drive] (https://drive.google.com/file/d/1-L0tLxWkkjAk4w8PwEW-hL72FdoV4cwp/view?usp=drive_link)
+* [pwn-pi my drive](https://drive.google.com/file/d/1-L0tLxWkkjAk4w8PwEW-hL72FdoV4cwp/view?usp=drive_link)
 * [pwn-pi aloa](https://github.com/RoganDawes/P4wnP1_aloa/releases/tag/v0.1.1-beta)
 
 # Flash the image on the SD card 
